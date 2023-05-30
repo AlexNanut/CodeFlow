@@ -76,7 +76,7 @@ Solution URL Link: heroku link
 3. Navigating to the project or week where users can  outline coding concepts
 
 ## Team Resources: 
-2. Heroku: [Application link](https://code-flow.herokuapp.com/homepage))
+2. Heroku: [Application link](https://code-flow.herokuapp.com/homepage)
 3. GitHub: [Repo link](https://github.com/MaxKeable/CodeFlow)
 
 ## License
